@@ -1,0 +1,9 @@
+.usercontent{
+	height: 100%;
+  	padding: 12px;
+  	overflow: auto;
+  	margin-left: 200px;
+  	align-self: stretch;
+  	position: absolute;
+  	top : 210px;
+}
